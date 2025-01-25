@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/votre-utilisateur/votre-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/votre-utilisateur/votre-repo/issues"
+  },
+  "homepage": "https://github.com/votre-utilisateur/votre-repo#readme",
+  "description": "",
+  "dependencies": {
+    "backend": "file:",
+    "express": "^4.21.2",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.9.5"
+  }
+}
